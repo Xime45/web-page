@@ -1,0 +1,21 @@
+{
+    "builds": [
+      {
+        "src": "contact.html",
+        "use": "@now/static"
+      },
+      {
+        "src": "projet.html",
+        "use": "@now/static"
+      },
+      {
+        "src": "style.css",
+        "use": "@now/static"
+      },
+      {
+        "src": "index.html",
+        "use": "@now/static"
+      }
+      
+    ]
+  }
