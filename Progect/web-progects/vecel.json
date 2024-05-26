@@ -18,4 +18,10 @@
       }
       
     ]
+    "rewrites": [
+        {
+            "source": "/CSS",
+            "destination": "/style.css"
+        }
+    ]
   }
