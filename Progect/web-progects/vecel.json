@@ -9,7 +9,7 @@
         "use": "@now/static"
       },
       {
-        "src": "CSS",
+        "src": "style.css",
         "use": "@now/static"
       },
       {
