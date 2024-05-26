@@ -20,7 +20,7 @@
     ]
     "rewrites": [
         {
-            "source": "/CSS",
+            "source": "/style.css",
             "destination": "/style.css"
         }
     ]
